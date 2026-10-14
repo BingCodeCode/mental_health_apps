@@ -1,0 +1,42 @@
+[
+  {
+    "category": null,
+    "source": "Sample entry",
+    "text": "This is an example wisdom-library entry — replace it with your own realizations or favorite quotes. Entries with a null category show up for every thinking trap."
+  },
+  {
+    "category": "Catastrophizing",
+    "source": "Sample entry",
+    "text": "Not every worst-case scenario comes true. Most of the things I've worried about never actually happened."
+  },
+  {
+    "category": "Mind Reading",
+    "source": "Sample entry",
+    "text": "I can't actually know what someone else is thinking — I'm guessing, and guesses aren't facts."
+  },
+  {
+    "category": "All-or-Nothing Thinking",
+    "source": "Sample entry",
+    "text": "Most things exist on a spectrum, not as a strict success-or-failure."
+  },
+  {
+    "category": null,
+    "source": "From books — The Overthinking Cure by Dr Jessamy Hibberd",
+    "text": "Overthinking is best thought of as a bad habit, like vaping or overeating."
+  },
+  {
+    "category": null,
+    "source": "From books — The Overthinking Cure by Dr Jessamy Hibberd",
+    "text": "Overthinking is the problem, not the solution."
+  },
+  {
+    "category": null,
+    "source": "From books — The Overthinking Cure by Dr Jessamy Hibberd",
+    "text": "Overthinking is not helpful, and it does not help you gain important insights."
+  },
+  {
+    "category": null,
+    "source": "From books — The Overthinking Cure by Dr Jessamy Hibberd",
+    "text": "Overthinking is best seen as a faulty coping mechanism, developed in response to feeling vulnerable or exposed."
+  }
+]
